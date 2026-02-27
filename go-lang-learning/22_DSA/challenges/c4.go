@@ -1,9 +1,9 @@
 package main
 
 import (
-	"dsa/stack"
 	"fmt"
 	"math"
+	"stack"
 )
 
 func DigPow(n int, p int) int {
